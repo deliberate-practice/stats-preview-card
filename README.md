@@ -1,1 +1,1 @@
-# My second frontend mentor challenge with Hassanat.
+My 2nd frontend mentor challenge with Hassanat.
